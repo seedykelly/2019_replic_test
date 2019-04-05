@@ -114,6 +114,18 @@
 }
 </Text>
         </Document>
+        <Document ID="4BF4FA5E-7B43-4765-A0F9-EFF25847E6B0">
+            <Title>Introduction</Title>
+            <Text>Rate and success of study replication in ecology and evolution
+
+The replication of empirical findings is fundamental to science yet it is generally ignored in the biosciences. Over the past decade, however, a replication crisis has prompted large-scale, systematic efforts to replicate foundational studies in psychology and biomedicine. Surprisingly, many of these replications have failed to repeat the findings of influential, high-impact work. Although little is known about the extent of these problems in ecology and evolution, there is no a priori reason to think that these fields are immune to the ails of other topics in the biosciences. Behavioural ecologists, for example, have a rather poor track record of replicating studies although considerable conceptual replication takes place (i.e. testing the same hypothesis but using different species and methods) (Kelly 2006).
+
+My aim here is two-fold. First, I attempt to determine how frequently studies are replicated in ecology and evolution by text-mining open access papers that were published in the category of Behaviour, Ecology and Systematics ecology. Second, I determine whether studies in ecology and evolution that claim to replicate previously published findings indeed do so. Third, I tested  the hypothesis that low replaction rates in open-access ecology and evolution journals (even open access ones) are due to their being relatively new and thus having a shorter publication history. I therefore compared rates in eco evo journals with those in a longer-standing multidisciplinary open access journal like PeerJ.
+
+By replication, I mean that a similar study (same species) was conducted again to test the same hypothesis using similar methods. Contrary to some authors (gertler2018make), I do not regard re-analysis of data as study replication.
+
+</Text>
+        </Document>
         <Document ID="E00EE3C7-DF2C-4CBD-8254-5DFA1B2C05EF">
             <Title>Methods</Title>
             <Text>I downloaded as .xml files 1 641 366 Open Access papers available in the PubMed database representing 7439 journals.    I then used code in R to select only those papers from journals categorized as “ecology, evolution, behaviour, or systematic” based on their ISSN number (SCimajor 2017). This resulted in a subset of 38 729 papers from 72 journals; the number of papers per journal ranged from xxx to xxx (mean ± SD: xx).
@@ -133,18 +145,6 @@ Need to figure out an hypothesis to test here.
 
 
 </Comments>
-        </Document>
-        <Document ID="4BF4FA5E-7B43-4765-A0F9-EFF25847E6B0">
-            <Title>Introduction</Title>
-            <Text>Rate and success of study replication in ecology and evolution
-
-The replication of empirical findings is fundamental to science yet it is generally ignored in the biosciences. Over the past decade, however, a replication crisis has prompted large-scale, systematic efforts to replicate foundational studies in psychology and biomedicine. Surprisingly, many of these replications have failed to repeat the findings of influential, high-impact work. Although little is known about the extent of these problems in ecology and evolution, there is no a priori reason to think that these fields are immune to the ails of other topics in the biosciences. Behavioural ecologists, for example, have a rather poor track record of replicating studies although considerable conceptual replication takes place (i.e. testing the same hypothesis but using different species and methods) (Kelly 2006).
-
-My aim here is two-fold. First, I attempt to determine how frequently studies are replicated in ecology and evolution by text-mining open access papers that were published in the category of Behaviour, Ecology and Systematics ecology. Second, I determine whether studies in ecology and evolution that claim to replicate previously published findings indeed do so. Third, I tested  the hypothesis that low replaction rates in open-access ecology and evolution journals (even open access ones) are due to their being relatively new and thus having a shorter publication history. I therefore compared rates in eco evo journals with those in a longer-standing multidisciplinary open access journal like PeerJ.
-
-By replication, I mean that a similar study (same species) was conducted again to test the same hypothesis using similar methods. Contrary to some authors (gertler2018make), I do not regard re-analysis of data as study replication.
-
-</Text>
         </Document>
         <Document ID="FF80EAB4-2EFF-4FA9-AB0C-576C813385D5">
             <Title> Notes</Title>

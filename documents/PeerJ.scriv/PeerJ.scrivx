@@ -13,7 +13,7 @@
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>577,0</TextSelection>
+                        <TextSelection>1827,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="E00EE3C7-DF2C-4CBD-8254-5DFA1B2C05EF" Type="Text" Created="2019-04-01 17:39:32 -0400" Modified="2019-04-02 16:58:48 -0400">
@@ -22,7 +22,7 @@
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>901,0</TextSelection>
+                        <TextSelection>0,2550</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="E99DF1A1-9784-4ED1-84B3-01CE2EAC3363" Type="Text" Created="2019-04-01 17:39:54 -0400" Modified="2019-04-02 16:33:02 -0400">
@@ -31,7 +31,7 @@
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>0,0</TextSelection>
+                        <TextSelection>0,3458</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
@@ -48,7 +48,7 @@
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>1517,0</TextSelection>
+                        <TextSelection>0,2826</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="F7AF1062-7536-404C-9184-21347F227B92" Type="Text" Created="2019-04-02 10:20:11 -0400" Modified="2019-04-02 16:47:43 -0400">
@@ -124,9 +124,9 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2019-04-01 17:39:04 -0400" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2019-04-03 19:06:19 -0400"/>
+        <PreviousSession Words="0" Characters="0" Date="2019-04-05 09:02:58 -0400"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2019-04-03 00:00:00 -0400">
+    <RecentWritingHistory Date="2019-04-05 00:00:00 -0400">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
