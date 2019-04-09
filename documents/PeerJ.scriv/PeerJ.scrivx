@@ -57,7 +57,7 @@
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>0,329</TextSelection>
+                        <TextSelection>1660,81</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
@@ -124,9 +124,9 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2019-04-01 17:39:04 -0400" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2019-04-05 09:02:58 -0400"/>
+        <PreviousSession Words="0" Characters="0" Date="2019-04-06 12:05:29 -0400"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2019-04-05 00:00:00 -0400">
+    <RecentWritingHistory Date="2019-04-06 00:00:00 -0400">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
